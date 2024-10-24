@@ -1,6 +1,6 @@
 ## Projeto de Programação Imperativa e Funcional - 2024.2 - CESAR School
 
-<h3>Integrantes da Equipe:</h3>
+<h3>Integrantes da Equipe</h3>
 
 <ul>
 <li>Arthur Rodrigues <a href="https://github.com/wiithesecond">[@wiithesecond]</a></li>
