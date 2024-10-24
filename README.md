@@ -7,3 +7,7 @@
 <li>Milo Moreira e Castro <a href="https://github.com/DuMilo">[@DuMilo]</a></li>
 <li>Sofia Travassos Bezerra <a href="https://github.com/Acel0risxs">[@Acel0risxs]</a></li>
 </ul>
+
+<h3>História do Jogo</h3>
+
+#### !!! TRABALHO EM PROGRESSO !!!
